@@ -1,6 +1,5 @@
-hhhhh
 # app-events-on-react
-Example of onChange event and onClick event in React and their concepts
+Practical example of onChange event and onClick event in React and their concepts.
 In React, the onChange and onClick events are two common event handlers used to handle user interactions in web applications. Here's a brief description of each:
 
 onChange Event:
