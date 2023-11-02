@@ -15,7 +15,7 @@ function App() {
       <Component />
       <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/Druvamayor/Druvamayor/blob/main/readme.md#my-portfolio"
           target="_blank"
           rel="noopener noreferrer"
         >
